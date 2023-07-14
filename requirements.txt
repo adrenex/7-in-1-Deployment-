@@ -57,4 +57,4 @@ urllib3
 Werkzeug==2.2.3
 wrapt==1.14.1
 xgboost
-zipp==3.16.0
+zipp
